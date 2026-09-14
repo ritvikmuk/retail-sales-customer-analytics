@@ -76,3 +76,52 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 ---
 
 ##  Executive Summary
+<h3 align="center">Sales Revenue Analysis (2015–2018)</h3>
+
+<img width="1031" height="477" alt="Screenshot 2026-09-14 214544" src="https://github.com/user-attachments/assets/0c16ae84-2be0-4a69-86e0-9b1a99dd16d4" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 1. Revenue Growth and Highest Performance:
+
+- **2018 recorded the highest annual sales of $722,052**, representing **20.3%** growth over 2017. November 2018 was also the highest-performing month across the four-year period, generating approximately **$117,938** in sales.
+
+- Following the **4.3% decline in 2016**, sales recovered strongly in 2017, growing by **30.6%**, followed by a further **20.3%** increase in 2018.
+
+- The results indicate a strong recovery after the 2016 downturn, with **two consecutive years of positive annual growth.**
+
+### 2. Declining Trend:
+
+- **2016 was the weakest-performing year**, with sales of approximately **$459,436**, representing a **4.3%** decline from 2015.
+
+- Compared with 2015, **Q1 and Q3 declined in 2016**, while Q2 and Q4 improved.
+
+- Months such as **March, June, and September** each declined by more than **$10,000** compared with 2015. Factors such as **market changes, competitor actions, or supply chain issues** should be investigated.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 3. Quarterly Trends and Seasonal Patterns:
+
+- **Q4 was the strongest-performing quarter in each year**, indicating a recurring concentration of sales toward the end of the year.
+
+- **September was also a consistently strong month**, at times approaching the sales levels of individual Q4 months.
+
+- **Q1 generally recorded the weakest quarterly performance**, with January and February frequently appearing among the lower-performing months.
+
+- The recurring **Q4 strength and Q1 weakness** suggest that seasonal patterns should be considered when planning **inventory, staffing, and promotional activity.**
+
+### 4. Recommendations and Key Takeaways:
+
+- Investigate the **2016 downturn** by examining factors such as **market changes, competitor actions, supply chain issues, and other operational or market indicators** where available.
+
+- Since **Q4 performed strongly in every year**, maintain this momentum through focused marketing and sales strategies while ensuring **inventory and staffing are optimized** to handle higher demand.
+
+- Address **Q1 weakness** through targeted testing, such as **early-year promotions, product bundles, or customer reactivation campaigns**, while monitoring whether these initiatives improve sales without unnecessarily reducing margins.
+
+</td>
+</tr>
+</table>
