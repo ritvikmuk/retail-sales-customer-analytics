@@ -1,5 +1,4 @@
 # Retail Sales & Customer Analytics: A Multi-Year Analysis of Sales Trends, Customer Loyalty, Product & Regional Performance
-### Yearly Trends, Customer Loyalty, Product & Regional Insights
 
 
 
@@ -18,17 +17,15 @@ customer retention, product strategy, and regional focus.
 **Dataset:** Public retail sales dataset containing customer purchases across
 multiple product categories, regions, states, and cities.
 
-### 📊 Data Structure & Initial Checks
 
-Elst's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total row count of **108,127 records**.
 
 ---
 
-### 📊 Data Structure & Initial Checks
+###  Data Structure & Initial Checks
 
-The database structure consists of a single fact table, `sales_data`, which contains transaction-level details for sales, customers, products, and locations.
+The database structure consists of a single fact table, `sales_data`, which contains transaction-level details for sales, customers, products, and regions with a total row count of 9800 records.
 
----
+
 
 #### 🗂️ `sales_data`
 
@@ -53,7 +50,7 @@ The database structure consists of a single fact table, `sales_data`, which cont
 | `product_name` | character varying(500) |
 | `sales` | numeric(10,2) |
 
----
+Prior to the beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here
 
 #### 🔗 Relationships
 
