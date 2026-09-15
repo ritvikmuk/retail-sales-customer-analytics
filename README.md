@@ -125,3 +125,11 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 </td>
 </tr>
 </table>
+
+##  Key Insights And Analysis
+<h3 align="center">Sales Trends Analysis </h3>
+
+<img width="1147" height="372" alt="Screenshot 2026-09-15 215022" src="https://github.com/user-attachments/assets/80e433ee-3781-4f41-9e8f-cf8010e4baca" />
+
+
+
