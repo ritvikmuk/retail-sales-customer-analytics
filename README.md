@@ -132,4 +132,37 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 <img width="1147" height="372" alt="Screenshot 2026-09-15 215022" src="https://github.com/user-attachments/assets/80e433ee-3781-4f41-9e8f-cf8010e4baca" />
 
 
+### Sales Revenue 
+
+- **2016 – Decline:** Sales declined **4.25% YoY**, driven mainly by weaker **Q1 (-16%) and Q3 (-10%)**. Although Q2 and Q4 grew 2%, the overall year remained below 2015. February grew **164% YoY** but still recorded the year's lowest sales (**$11,951**), while November was the highest (**$75,249**).
+- **2017 – Strong recovery:** Sales grew **30.8%**, the highest annual growth across the period. Q1 and Q2 were 50% higher than 2016, with **December recording the highest monthly sales ($95,739)**.
+- **2018 – Continued growth:** Sales increased **20.3% YoY**, reaching the **highest annual revenue** in the four-year period along with November month being the **highest revenue generating month** among four year period. Q1, Q3 and Q4 grew, while Q2 declined **5.6%**. January and August recorded **100%+ YoY growth**, while weaker performance in February, May and December contributed to the quarterly variation.
+
+### Average Order Value (AOV)
+
+- **2015:** Recorded the highest annual AOV at **$506.71**.
+- **2016:** AOV declined approximately **11%**, with every quarter below its 2015 counterpart, indicating lower revenue generated per order.
+- **2017:** AOV recovered **3%**, supported by stronger Q1 (**$520.71**) and Q4 (**$512.89**), although Q3 fell sharply to **$373.13**.
+- **2018:** AOV declined another **6%** to **$434.71**, with Q2 recording the lowest quarterly AOV across the period (**$354.33**).
+
+**Quarterly pattern**:
+| Quarter | Pattern | AOV Range |
+|---|---|---|
+| Q1 | Premium quarter | $582 – $518 |
+| Q2 | Weakest, declining | $440 – $354 |
+| Q3 | Declining (growth in 2018) | $542 – $441 |
+| Q4 | Strong, moderately volatile | $490 – $445 |
+
+### Order Volume
+
+- **Order volume increased consistently over the four years**, with each year generally recording more orders than the previous year across comparable quarters.
+- Growth accelerated in the later years, with **2017 adding 276 orders** over 2016 and **2018 adding a further 366 orders** over 2017.
+
+<h3 align="center">Product Performance</h3>
+
+<img width="973" height="485" alt="Screenshot 2026-09-17 022334" src="https://github.com/user-attachments/assets/e4e53b16-4326-47f2-a2ac-c85353fdb7b1" />
+
+
+
+
 
