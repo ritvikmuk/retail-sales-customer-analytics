@@ -162,6 +162,42 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 <img width="973" height="485" alt="Screenshot 2026-09-17 022334" src="https://github.com/user-attachments/assets/e4e53b16-4326-47f2-a2ac-c85353fdb7b1" />
 
+<table>
+<tr>
+<td width="33.3%" valign="top">
+
+
+
+### Product Performance
+- Canon imageCLASS 2200 Advanced Copier leads all products with $61,599.82 in total sales, despite a modest order count of just 5
+- Fellowes PB500 Electric Punch and Cisco TelePresence System EX90 round out the top 3, but tell very different stories — Fellowes drives revenue through volume (10 orders), while Cisco does it through one high-value transaction ($22,638.48 in a single order)
+- On the other end, Eureka Disposable Bags is the weakest performer, closing out the ranking with the lowest sales overall
+
+
+</td>
+
+<td width="33.3%" valign="top">
+
+### Average Order Value (AOV)
+- AOV hit its peak in 2015 and has been on a steady decline every year since
+- Cisco TelePresence System commands the highest AOV at $22,638 — a direct result of being sold as a single unit each time
+- Canon imageCLASS follows at $12,319, with Cubify CubeX 3D Printer close behind at $7,999
+- Eureka Disposable Bags recorded the lowest AOV at just $1.62.
+
+</td>
+
+<td width="33.3%" valign="top">
+
+### Consistent Products
+- Among top-selling products, Fellowes PB500 tops the revenue chart at $27,453, followed by HON 5400 Series Task Chairs ($21,870), while Logitech P710e Mobile Speakerphone trails the **top 10** at $10,196
+- Hewlett Packard LaserJet, Fellowes PB500 Electric Punch, Logitech P710e Mobile Speakerphone, Global Troy, GBC DocuBind, and Plantronics CS510 all show sharp year-over-year swings. Despite the volatility, their growth potential warrants continued monitoring to determine whether these are driven by inconsistent demand or one-off purchasing spikes.
+- Most of these **top 10 consistent products** showed high volatility, with only HON 5400 Series Task Chairs and SAFCO Arco Folding Chair proving relatively less volatile but the most stable one is HON 5400 shows a healthier growth trajectory (+10%, -12%, +56%), while SAFCO Arco never fully bounces back after a steep -52.9% drop in 2016 making it less relaible .
+- DMI Eclipse demonstrates both declining growth and unstable performance, suggesting weakening market relevance.
+
+
+</td>
+</tr>
+</table>
 
 
 
