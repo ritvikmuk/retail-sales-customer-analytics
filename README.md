@@ -181,7 +181,8 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 <td width="33.3%" valign="top">
 
 ### Average Order Value (AOV)
-- AOV hit its peak in 2015 and has been on a steady decline every year since
+***Note**: While the Power BI report highlights the top 10 AOV products overall, this yearly trend view adds deeper analysis — showing how these products' AOV changed over time.*
+- AOV overall shows a general declining trend from 2015 through 2018 across the top 10 products — though this pattern isn't uniform across every product (e.g., HP LaserJet does not follow the same decline) and some products — Cisco TelePresence, Canon imageCLASS MF7460, Cubify CubeX, Okidata — appear in the top 10 for only one year reflecting one-off, low-volume, high-value purchases rather than a consistent pricing/sales pattern.
 - Cisco TelePresence System commands the highest AOV at $22,638 — a direct result of being sold as a single unit each time
 - Canon imageCLASS follows at $12,319, with Cubify CubeX 3D Printer close behind at $7,999
 - Eureka Disposable Bags recorded the lowest AOV at just $1.62.
@@ -198,8 +199,13 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 
 </td>
+
+
 </tr>
 </table>
+
+<img width="1076" height="360" alt="Screenshot 2026-09-23 011032" src="https://github.com/user-attachments/assets/d4d974b9-5539-448f-882c-8d05ea347386" />
+
 
 
 
