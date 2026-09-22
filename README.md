@@ -160,7 +160,9 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 <h3 align="center">Product Performance</h3>
 
-<img width="973" height="485" alt="Screenshot 2026-09-17 022334" src="https://github.com/user-attachments/assets/e4e53b16-4326-47f2-a2ac-c85353fdb7b1" />
+<img width="992" height="556" alt="Screenshot 2026-09-23 004123" src="https://github.com/user-attachments/assets/de1a1a60-930f-4682-bafc-5cc1ee05b08b" />
+
+
 
 <table>
 <tr>
