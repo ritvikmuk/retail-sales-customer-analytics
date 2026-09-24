@@ -207,6 +207,25 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 <img width="1076" height="360" alt="Screenshot 2026-09-23 011032" src="https://github.com/user-attachments/assets/d4d974b9-5539-448f-882c-8d05ea347386" />
 
 
+<h3 align="center">Loyalty Program Insights</h3>
+
+<img width="1028" height="323" alt="Screenshot 2026-09-25 003730" src="https://github.com/user-attachments/assets/1f4b8c1c-10f6-4eb8-b117-0548894c220d" />
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+- **Consistent and inconsistent** customers started at similar sales levels in 2015 and dipped sharply in early 2016. Sales fluctuated and crossed frequently through 2016–2017, with no sustained gap overall in year 2016. From 2017, inconsistent customer sales grew faster, widening the gap substantially in 2018.
+
+***Note**:For Non Loyal Customers, new customers from **2018** was **excluded** from the total **500** Non-Loyal Customers cause there was no further years to track the behavior of these customers, thus the value is derived (500-11=489 customers)*
+
+- **Customer Trends Over the Years**
+1. **2015–2016:** Customer base declined from 589 to 567. Of the 2016 customers, 141 were new, while 426 were retained, implying a churn of 163 customers.
+2. **2016–2017:** Total customers increased to 635 (+68). 52 were new, and 16 were reactivated customers (assuming previously inactive in 2016).
+3. **2017–2018:** Customer count grew to 690 (+55). With 11 new customers, the remaining 44 were reactivated customers (probably inactive in 2017).
+
+</tr>
+</table>
 
 
 
