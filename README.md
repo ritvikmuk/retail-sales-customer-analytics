@@ -209,7 +209,9 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 <h3 align="center">Loyalty Program Insights</h3>
 
-<img width="1028" height="323" alt="Screenshot 2026-09-25 003730" src="https://github.com/user-attachments/assets/1f4b8c1c-10f6-4eb8-b117-0548894c220d" />
+<img width="1032" height="345" alt="Screenshot 2026-09-28 220909" src="https://github.com/user-attachments/assets/4078422c-1ddc-4878-b39c-91807a67c2db" />
+
+
 
 <table>
 <tr>
@@ -220,10 +222,10 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 ***Note**:For Non Loyal Customers, new customers from **2018** was **excluded** from the total **500** Non-Loyal Customers cause there was no further years to track the behavior of these customers, thus the value is derived (500-11=489 customers)*
 
 - **Customer Trends Over the Years**
-1. **2015–2016:** Customer base declined from 589 to 567. Of the 2016 customers, 141 were new, while 426 were retained, implying a churn of 163 customers.
-2. **2016–2017:** Total customers increased to 635 (+68). 52 were new, and 16 were reactivated customers (assuming previously inactive in 2016).
-3. **2017–2018:** Customer count grew to 690 (+55). With 11 new customers, the remaining 44 were reactivated customers (probably inactive in 2017).
-
+1. **2015–2016:** Customer Base fell from 589 to 567 with 141 new customers, 426 retained and 163 churned.
+2. **2016–2017:** Customers increased to 635 with 52 new customers, 444 retained, 123 churned and 139 reactivated (active in 2015, inactive in 2016).
+3. **2017–2018:** Customer count grew to 690 with 11 new customers, 552 retained, 83 churned and the remaining 127 were reactivated customers (active in 2015/2016, inactive in 2017).
+4. **Pattern**: Churn steadily dropped (163 → 123 → 83), while retention climbed (426 → 444 → 552) — stability improved through lower churn and higher retention, but growth now relies on reactivating lapsed customers, as new customer acquisition fell from 141 to 11 (141 → 52 → 11).
 </tr>
 </table>
 
