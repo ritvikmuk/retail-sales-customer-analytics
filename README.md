@@ -230,4 +230,51 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 </table>
 
 
+<h3 align="center">Regional Performance</h3>
 
+<img width="981" height="446" alt="Screenshot 2026-09-29 235608" src="https://github.com/user-attachments/assets/f278ae97-51ed-49a6-bb15-18c087c31bf1" />
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+## Regional Performance (2015–2018)
+
+| Rank | Region  | Revenue 2015 → 2018 | Revenue Growth | Order Growth |
+|------|---------|---------------------|----------------|--------------|
+| 1    | West    | $145,907 → $248,130 | +70%           | +72.1% (308 → 530) |
+| 2    | East    | $127,652 → $210,129 | +64.6%         | +81.2% (255 → 462) |
+| 3    | Central | $102,920 → $141,627 | +37.6%         | +79.4% (223 → 400) |
+| 4    | South   | $103,374 → $122,164 | +18.2%         | +67.1% (161 → 269) |
+
+
+- **West:** Top performer. Revenue dipped slightly in 2016, then grew sharply in 2017 ($182,471) and 2018. Orders rose every year.
+- **East:** Steady, consistent growth with the highest order growth of all regions.
+- **Central:** Moderate growth. Revenue peaked in 2017 and dipped slightly in 2018, showing slowing momentum.
+- **South:** Weakest performer. Revenue fell to $70,076 in 2016 and recovered only partially by 2017 ($93,535), with a stronger rebound in 2018. Order volume is improving, but the region still lags behind the others.
+
+## State-Level Performance by Region
+
+| Region  | State          | 2016    | 2017    | 2018    | Takeaway |
+|---------|----------------|---------|---------|---------|----------|
+| West    | California     | -4.3%   | Growth  | Growth  | Largest contributor |
+| West    | Washington     | -33.1%  | -0.8%   | +230.8% | Sharp rebound in 2018 |
+| East    | New York       | +20.3%  | -8.5%   | +32.4%  | Volatile but strong |
+| East    | Pennsylvania   | Growth  | Growth  | Growth  | Best growing state, positive every year |
+| East    | Ohio           | Growth  | Growth  | -11.4%  | Emerging weakness |
+| Central | Illinois       | Growth  | Growth  | Growth  | Stable performer |
+| Central | Michigan       | Growth  | Growth  | -5.3%   | Explosive but unstable |
+| Central | Texas          | -32.2%  | Growth  | Growth  | Highest revenue, slow recovery |
+| South   | Florida        | -58.4%  | -5.0%   | +95.5%  | Deep dip, strong 2018 rebound |
+| South   | Virginia       | -59.1%  | +153.2% | -71.5%  | Highly volatile, high risk |
+| South   | North Carolina | -0.7%   | +74.9%  | +53.8%  | Steady growth |
+
+**Key Insights**
+- **West:** California is the largest contributor after a small 2016 dip. Washington fell in 2016 and 2017, then surged 230.8% in 2018.
+- **East:** Pennsylvania is the most consistent grower. New York is volatile but strong. Ohio's 2018 decline is an early warning sign.
+- **Central:** Illinois is stable. Michigan grew explosively in 2016 and 2017 but dropped in 2018. Texas is the top revenue state, but its recovery after the 2016 drop has been slow.
+- **South:** The weakest region. North Carolina is the bright spot, Florida is recovering, and Virginia is the main risk with wild swings.
+
+
+</tr>
+</table>
