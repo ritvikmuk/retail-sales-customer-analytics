@@ -127,7 +127,9 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 </table>
 
 ##  Key Insights And Analysis
-<h3 align="center">Sales Trends Analysis </h3>
+<br><br><br>
+
+<h2 align="center">Sales Trends Analysis </h2>
 
 <img width="1147" height="372" alt="Screenshot 2026-09-15 215022" src="https://github.com/user-attachments/assets/80e433ee-3781-4f41-9e8f-cf8010e4baca" />
 
@@ -158,7 +160,9 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 - **Order volume increased consistently over the four years**, with each year generally recording more orders than the previous year across comparable quarters.
 - Growth accelerated in the later years, with **2017 adding 276 orders** over 2016 and **2018 adding a further 366 orders** over 2017.
 
-<h3 align="center">Product Performance</h3>
+<br><br><br>
+
+<h2 align="center">Product Performance</h2>
 
 <img width="992" height="556" alt="Screenshot 2026-09-23 004123" src="https://github.com/user-attachments/assets/de1a1a60-930f-4682-bafc-5cc1ee05b08b" />
 
@@ -206,8 +210,10 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 <img width="1076" height="360" alt="Screenshot 2026-09-23 011032" src="https://github.com/user-attachments/assets/d4d974b9-5539-448f-882c-8d05ea347386" />
 
+<br><br><br>
+<br><br><br>
 
-<h3 align="center">Loyalty Program Insights</h3>
+<h2 align="center">Loyalty Program Insights</h2>
 
 <img width="1032" height="345" alt="Screenshot 2026-09-28 220909" src="https://github.com/user-attachments/assets/4078422c-1ddc-4878-b39c-91807a67c2db" />
 
@@ -229,8 +235,9 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 </tr>
 </table>
 
+<br><br><br>
 
-<h3 align="center">Regional Performance</h3>
+<h2 align="center">Regional Performance</h2>
 
 <img width="981" height="446" alt="Screenshot 2026-09-29 235608" src="https://github.com/user-attachments/assets/f278ae97-51ed-49a6-bb15-18c087c31bf1" />
 
@@ -238,7 +245,7 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 <tr>
 <td width="100%" valign="top">
 
-## Regional Performance (2015–2018)
+### Regional Overview 
 
 | Rank | Region  | Revenue 2015 → 2018 | Revenue Growth | Order Growth |
 |------|---------|---------------------|----------------|--------------|
@@ -253,28 +260,31 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 - **Central:** Moderate growth. Revenue peaked in 2017 and dipped slightly in 2018, showing slowing momentum.
 - **South:** Weakest performer. Revenue fell to $70,076 in 2016 and recovered only partially by 2017 ($93,535), with a stronger rebound in 2018. Order volume is improving, but the region still lags behind the others.
 
-## State-Level Performance by Region
+### Top States By Region
 
-| Region  | State          | 2016    | 2017    | 2018    | Takeaway |
-|---------|----------------|---------|---------|---------|----------|
-| West    | California     | -4.3%   | Growth  | Growth  | Largest contributor |
-| West    | Washington     | -33.1%  | -0.8%   | +230.8% | Sharp rebound in 2018 |
-| East    | New York       | +20.3%  | -8.5%   | +32.4%  | Volatile but strong |
-| East    | Pennsylvania   | Growth  | Growth  | Growth  | Best growing state, positive every year |
-| East    | Ohio           | Growth  | Growth  | -11.4%  | Emerging weakness |
-| Central | Illinois       | Growth  | Growth  | Growth  | Stable performer |
-| Central | Michigan       | Growth  | Growth  | -5.3%   | Explosive but unstable |
-| Central | Texas          | -32.2%  | Growth  | Growth  | Highest revenue, slow recovery |
-| South   | Florida        | -58.4%  | -5.0%   | +95.5%  | Deep dip, strong 2018 rebound |
-| South   | Virginia       | -59.1%  | +153.2% | -71.5%  | Highly volatile, high risk |
-| South   | North Carolina | -0.7%   | +74.9%  | +53.8%  | Steady growth |
 
-**Key Insights**
-- **West:** California is the largest contributor after a small 2016 dip. Washington fell in 2016 and 2017, then surged 230.8% in 2018.
-- **East:** Pennsylvania is the most consistent grower. New York is volatile but strong. Ohio's 2018 decline is an early warning sign.
-- **Central:** Illinois is stable. Michigan grew explosively in 2016 and 2017 but dropped in 2018. Texas is the top revenue state, but its recovery after the 2016 drop has been slow.
-- **South:** The weakest region. North Carolina is the bright spot, Florida is recovering, and Virginia is the main risk with wild swings.
+**West**
+- **California:** Largest contributor in the region. Dipped 4.3% in 2016, then grew in 2017 and 2018.
+- **Washington:** Declined 33.1% in 2016 and 0.8% in 2017, then surged 230.8% in 2018.
+
+**East**
+- **Pennsylvania:** Best growing state, with positive growth every year.
+- **New York:** Volatile but strong. Grew 20.3% in 2016, fell 8.5% in 2017, then rebounded 32.4% in 2018.
+- **Ohio:** Grew in 2016 and 2017 but dropped 11.4% in 2018, signaling emerging weakness.
+
+**Central**
+- **Illinois:** Stable performer with positive growth every year.
+- **Michigan:** Explosive growth in 2016 and 2017, but fell 5.3% in 2018, making it unstable.
+- **Texas:** Highest revenue in the region. Fell sharply by 32.2% in 2016, then grew in 2017 and 2018, though recovery has been slow.
+
+**South** (weakest region)
+- **North Carolina:** Steady growth. Dipped 0.7% in 2016, then grew 74.9% in 2017 and 53.8% in 2018.
+- **Florida:** Fell 58.4% in 2016 and 5% in 2017, then rebounded 95.5% in 2018.
+- **Virginia:** Highly volatile (-59.1%, +153.2%, -71.5%), making it a high-risk state.
 
 
 </tr>
 </table>
+
+<img width="982" height="472" alt="Screenshot 2026-09-30 001653" src="https://github.com/user-attachments/assets/91e9581d-f92d-4f03-a208-1bee16ac8540" />
+
