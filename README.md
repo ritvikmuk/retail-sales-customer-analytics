@@ -286,5 +286,6 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 </tr>
 </table>
 
-<img width="982" height="472" alt="Screenshot 2026-09-30 001653" src="https://github.com/user-attachments/assets/91e9581d-f92d-4f03-a208-1bee16ac8540" />
+<img width="1132" height="555" alt="Screenshot 2026-09-30 133826" src="https://github.com/user-attachments/assets/ed0a18c0-c14c-4b4a-ac92-b6572a1f198a" />
+
 
