@@ -136,9 +136,21 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 ### Sales Revenue 
 
-- **2016 – Decline:** Sales declined **4.25% YoY**, driven mainly by weaker **Q1 (-16%) and Q3 (-10%)**. Although Q2 and Q4 grew 2%, the overall year remained below 2015. February grew **164% YoY** but still recorded the year's lowest sales (**$11,951**), while November was the highest (**$75,249**).
-- **2017 – Strong recovery:** Sales grew **30.8%**, the highest annual growth across the period. Q1 and Q2 were 50% higher than 2016, with **December recording the highest monthly sales ($95,739)**.
-- **2018 – Continued growth:** Sales increased **20.3% YoY**, reaching the **highest annual revenue** in the four-year period along with November month being the **highest revenue generating month** among four year period. Q1, Q3 and Q4 grew, while Q2 declined **5.6%**. January and August recorded **100%+ YoY growth**, while weaker performance in February, May and December contributed to the quarterly variation.
+
+| Year | Total Sales | Annual YoY % | Q1 YoY % | Q2 YoY % | Q3 YoY % | Q4 YoY % |
+|------|-------------|--------------|----------|----------|----------|----------|
+| 2015 | 479,856.27  | -            | -        | -        | -        | -        |
+| 2016 | 459,435.94  | -4.3%        | -15.7%   | +2.1%    | -9.8%    | +1.8%    |
+| 2017 | 600,192.80  | +30.6%       | +48.6%   | +54.0%   | +7.4%    | +29.6%   |
+| 2018 | 722,051.96  | +20.3%       | +31.9%   | -5.6%    | +40.4%   | +18.8%   |
+
+> **Note:** Quarterly YoY % shows the change vs. the same quarter in the prior year (e.g., Q1 2017 = Q1 2017 vs. Q1 2016). 2015 has no prior-year data
+
+- **2015 → 2016**: **Decline (-4.25%)**. Sales fell as weaker Q1 (-16%) and Q3 (-10%) outweighed 2% growth in Q2 and Q4. The drop comes down to two months, March (-22K) and September (-19K, an unusually high 2015 base). February grew 164% but from a tiny base and was still the year's lowest month ($11,951), while November was the 2016 peak ($75,249).
+
+- **2016 → 2017**: **Strong recovery (+30.6%)**. This was the highest growth of the period and was front-loaded, with Q1 and Q2 each 50% above 2016. Four months drove about two-thirds of the gain: October (+29K), May (+27K), December (+21K) and March (+18K). May 2017 looks like a one-off spike rather than a trend, and December was the year's peak ($95,739).
+
+- **2017 → 2018**: **Continued growth (+20.3%)**. Revenue hit its highest annual level of the period, with Q2 (-5.6%) the only quarterly decline. The top contributors were November (+39K, the highest month across all four years), January and August recorded **100%+ YoY growth**. The Q2 dip came from April (-9%) and May (-23%, exaggerated by the strong May 2017), partly offset by June (+20%). February and December each fell ~13%, and December dropped after November's peak, unlike in 2017.
 
 ### Average Order Value (AOV)
 
@@ -288,4 +300,33 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 <img width="1132" height="555" alt="Screenshot 2026-09-30 133826" src="https://github.com/user-attachments/assets/ed0a18c0-c14c-4b4a-ac92-b6572a1f198a" />
 
+## Recommendations
 
+**Based on the insights, here are some recommendations**
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### Sales
+
+#### Sales (Quarterly and Monthly)
+
+Q1: Treat March as the anchor month, keep February targets realistic, and confirm whether January's 2018 surge is repeatable.
+
+Q2: Reverse April's decline early with retention campaigns and no stock-outs, and don't chase May's 2017 peak.
+
+Q3: Plan inventory and capacity ahead of September, and check whether August's 2018 surge was sustainable before raising its budget.
+
+Q4: Concentrate promotions and stock in October and November, investigate the drop in 2018, and hold pricing in December, since volume still above 2015, 2016.
+
+#### Average Order Value
+
+- Protect premium pricing in Q1, and use bundles and cross-selling in Q2 and Q3 to lift basket size without relying on discounts.
+
+- Run A/B tests in Q4 to find what drove the 2017 AOV peak and make it repeatable.
+
+#### Order Count and AOV Together
+
+- 2016 and 2018 were volume-driven years (more orders, lower AOV), which suggests heavy discounting or smaller baskets. Use minimum order thresholds, upselling, and bundles to turn order volume into higher revenue per order.
+
+- Replicate the Q3 2018 approach, the only quarter where both metrics grew, in the other quarters.
