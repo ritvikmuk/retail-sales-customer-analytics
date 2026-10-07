@@ -323,10 +323,10 @@ Q4: Concentrate promotions and stock in October and November, investigate the dr
 
 - Protect premium pricing in Q1, and use bundles and cross-selling in Q2 and Q3 to lift basket size without relying on discounts.
 
-- Run A/B tests in Q4 to find what drove the 2017 AOV peak and make it repeatable.
+- Run A/B tests in Q4 to find what drove the 2017 AOV peak, make it repeatable and identify the drops in 2016 and 2018 whether caused by low valued customer or weaker product mix.
 
 #### Order Count and AOV Together
 
-- 2016 and 2018 were volume-driven years (more orders, lower AOV), which suggests heavy discounting or smaller baskets. Use minimum order thresholds, upselling, and bundles to turn order volume into higher revenue per order.
+- 2016 and 2018 were volume-driven years (more orders, lower AOV), which suggests heavy discounting or smaller baskets. Use minimum order thresholds, upselling, and premium bundles to turn order volume into higher revenue per order.
 
-- Replicate the Q3 2018 approach, the only quarter where both metrics grew, in the other quarters.
+- 2017 was a recovery year where both AOV and order count increased, except in Q3, where AOV dropped, likely due to high-volume sales of lower-priced. Can use premium bundle pricing and cross-selling to increase AOV
