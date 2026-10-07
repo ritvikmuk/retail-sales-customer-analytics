@@ -330,3 +330,10 @@ Q4: Concentrate promotions and stock in October and November, investigate the dr
 - 2016 and 2018 were volume-driven years (more orders, lower AOV), which suggests heavy discounting or smaller baskets. Use minimum order thresholds, upselling, and premium bundles to turn order volume into higher revenue per order.
 
 - 2017 was a recovery year where both AOV and order count increased, except in Q3, where AOV dropped, likely due to high-volume sales of lower-priced. Can use premium bundle pricing and cross-selling to increase AOV
+
+
+### Products
+
+#### Best and Worst Product
+- Canon imageCLASS 2200 leads revenue ($61,600) but relies on just 5 high-value orders (AOV $12,320). Fellowes PB500 offers a stronger balance, generating $27,453 from 10 orders and selling consistently from 2015–2018, making it a strong core anchor product. Canon, as a high-value product with strong momentum, warrants continued investment.
+
