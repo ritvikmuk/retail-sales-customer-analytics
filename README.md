@@ -334,6 +334,15 @@ Q4: Concentrate promotions and stock in October and November, investigate the dr
 
 ### Products
 
-#### Best and Worst Product
-- Canon imageCLASS 2200 leads revenue ($61,600) but relies on just 5 high-value orders (AOV $12,320). Fellowes PB500 offers a stronger balance, generating $27,453 from 10 orders and selling consistently from 2015–2018, making it a strong core anchor product. Canon, as a high-value product with strong momentum, warrants continued investment.
+**HON 5400 Series Task Chairs:** Best candidate for investment, generating ~$21K in revenue with 14.9% CAGR and the lowest CV (0.22), indicating stable sales and predictable growth.
+
+**HP LaserJet 3310:** Strong growth potential, with ~$18K revenue and 72.6% CAGR. However, its high CV (0.85) warrants cautious investment.
+
+**Fellowes PB500 & GBC DocuBind TL300:** Both generate high revenue and sell consistently across all four years, but CVs above 0.90 indicate high volatility. Hold and investigate before making further investment decisions.
+
+**Canon imageCLASS 2200 Copier:** Highest revenue generator (~$61K), but sales data covers only 2017–2018. Monitor future performance before committing further investment.
+
+**Cisco TelePresence EX90:** Generated ~$22.6K from a single order in 2015, with no subsequent sales. Treat as a one-time transaction rather than evidence of recurring demand; avoid inventory allocation based on historical revenue alone.
+
+
 
