@@ -344,5 +344,4 @@ Q4: Concentrate promotions and stock in October and November, investigate the dr
 
 - Cisco TelePresence EX90: Generated ~$22.6K from a single order in 2015, with no subsequent sales. Treat as a one-time transaction rather than evidence of recurring demand; avoid inventory allocation based on historical revenue alone.
 
-Deprioritize low-revenue products such as Avery 479, Computer Printout Index Tabs, and Acco Economy Flexible Poly Round Ring Binder, as their combined sales contributed only 0.0016% of total revenue over the four-year period and applying the same approach to other products with negligible revenue contributions.
-
+Deprioritize low-revenue products such as Avery 479, Computer Printout Index Tabs, and Acco Economy Flexible Poly Round Ring Binder, as their combined sales contributed only 0.0016% of total revenue over the four-year period.
