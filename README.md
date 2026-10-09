@@ -333,16 +333,16 @@ Q4: Concentrate promotions and stock in October and November, investigate the dr
 
 
 ### Products
+**Top Products**
+- HON 5400 Series Task Chairs: Best candidate for investment, generating ~$21K in revenue with 14.9% CAGR and the lowest CV (0.22), indicating stable sales and predictable growth.
 
-**HON 5400 Series Task Chairs:** Best candidate for investment, generating ~$21K in revenue with 14.9% CAGR and the lowest CV (0.22), indicating stable sales and predictable growth.
+- HP LaserJet 3310: Strong growth potential, with ~$18K revenue and 72.6% CAGR. However, its high CV (0.85) warrants cautious investment.
 
-**HP LaserJet 3310:** Strong growth potential, with ~$18K revenue and 72.6% CAGR. However, its high CV (0.85) warrants cautious investment.
+- Fellowes PB500 & GBC DocuBind TL300: Both generate high revenue and sell consistently across all four years, but CVs above 0.90 indicate high volatility. Hold and investigate before making further investment decisions.
 
-**Fellowes PB500 & GBC DocuBind TL300:** Both generate high revenue and sell consistently across all four years, but CVs above 0.90 indicate high volatility. Hold and investigate before making further investment decisions.
+- Canon imageCLASS 2200 Copier: Highest revenue generator (~$61K), but sales data covers only 2017–2018. Monitor future performance before committing further investment.
 
-**Canon imageCLASS 2200 Copier:** Highest revenue generator (~$61K), but sales data covers only 2017–2018. Monitor future performance before committing further investment.
+- Cisco TelePresence EX90: Generated ~$22.6K from a single order in 2015, with no subsequent sales. Treat as a one-time transaction rather than evidence of recurring demand; avoid inventory allocation based on historical revenue alone.
 
-**Cisco TelePresence EX90:** Generated ~$22.6K from a single order in 2015, with no subsequent sales. Treat as a one-time transaction rather than evidence of recurring demand; avoid inventory allocation based on historical revenue alone.
-
-
+Deprioritize low-revenue products such as Avery 479, Computer Printout Index Tabs, and Acco Economy Flexible Poly Round Ring Binder, as their combined sales contributed only 0.0016% of total revenue over the four-year period.
 
