@@ -344,4 +344,4 @@ Q4: Concentrate promotions and stock in October and November, investigate the dr
 
 - Cisco TelePresence EX90: Generated ~$22.6K from a single order in 2015, with no subsequent sales. Treat as a one-time transaction rather than evidence of recurring demand; avoid inventory allocation based on historical revenue alone.
 
-Deprioritize low-revenue products such as Avery 479, Computer Printout Index Tabs, and Acco Economy Flexible Poly Round Ring Binder, as their combined sales contributed only 0.0016% of total revenue over the four-year period.
+Most low-selling products have only one order, making trends unreliable (Eureka Disposable Bags first sold in 2018). Colored Push Pins, Self-Adhesive Ring Binder Labels, and Maxell 4.7GB DVD-R 5/Pack, however, fell below 2015 sales by 2018 (-15.20, -13.02, -5.94), making them discontinuation candidates.
