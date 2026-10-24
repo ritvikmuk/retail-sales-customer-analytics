@@ -349,5 +349,7 @@ Most low-selling products have only one order, making trends unreliable (Eureka 
 
 ### Loyalty Program
 - Retention And New Customer Acquisition - Customer retention is improving (426 → 444 → 552), but new customers declined (141 → 52 → 11), thus investigate whether it was intentional or caused by reduced marketing or reach, and invest in acquisition alongside retention.
-- Win back at-risk loyal customers - Of 293 loyal customers who bought in all four years, 102 have not ordered in the last 90 days (191 are still active). Their purchase history makes them prime targets for a win-back campaign before they churn for good.
-- Reduce dependence on inconsistent revenue - Since 2017, revenue has been driven more by inconsistent customers, while the consistent base has stayed nearly flat. A small competitor price shift could pull most of the inconsistent base away thus, use win-back campaigns and VIP/subscription programs
+- Win back at-risk loyal customers - Of 284 loyal customers who bought in all four years, 97 have not ordered in the last 90 days (187 are still active). Their purchase history makes them prime targets for a win-back campaign before they churn for good.
+- Reduce dependence on inconsistent revenue - Since 2017, revenue has been driven more by inconsistent customers, while the consistent base has stayed nearly flat. A small competitor price shift could pull most of the inconsistent base away thus, use win-back campaigns and VIP/subscription programs to build repeat-purchase habits.
+- Investigate the 2017 surge - Whether it came from a viral one-time product launch or a pricing change that attracted price-sensitive, one-time buyers and 
+track the right KPIs to increase the growth rate of consistent customers and decrease the drop-off (churn) of inconsistent customers.
