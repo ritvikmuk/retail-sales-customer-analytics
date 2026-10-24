@@ -227,7 +227,7 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 <h2 align="center">Loyalty Program Insights</h2>
 
-<img width="1032" height="345" alt="Screenshot 2026-09-28 220909" src="https://github.com/user-attachments/assets/4078422c-1ddc-4878-b39c-91807a67c2db" />
+<img width="1048" height="352" alt="Screenshot 2026-10-24 165026" src="https://github.com/user-attachments/assets/a0a32532-502a-4286-b494-c39507c4a9b9" />
 
 
 
@@ -237,7 +237,7 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 - **Consistent and inconsistent** customers started at similar sales levels in 2015 and dipped sharply in early 2016. Sales fluctuated and crossed frequently through 2016–2017, with no sustained gap overall in year 2016. From 2017, inconsistent customer sales grew faster, widening the gap substantially in 2018.
 
-***Note**:For Non Loyal Customers, new customers from **2018** was **excluded** from the total **500** Non-Loyal Customers cause there was no further years to track the behavior of these customers, thus the value is derived (500-11=489 customers)*
+***Note**:For Non Loyal Customers, new customers from **2018** was **excluded** from the total **509** Non-Loyal Customers cause there was no further years to track the behavior of these customers, thus the value is derived (509-11=498 customers)*
 
 - **Customer Trends Over the Years**
 1. **2015–2016:** Customer Base fell from 589 to 567 with 141 new customers, 426 retained and 163 churned.
@@ -340,8 +340,14 @@ Q4: Concentrate promotions and stock in October and November, investigate the dr
 
 - Fellowes PB500 & GBC DocuBind TL300: Both generate high revenue and sell consistently across all four years, but CVs above 0.90 indicate high volatility. Hold and investigate before making further investment decisions.
 
-- Canon imageCLASS 2200 Copier: Highest revenue generator (~$61K), but sales data covers only 2017–2018. Monitor future performance before committing further investment.
+- Canon imageCLASS 2200 Copier: Highest revenue generator ($61K), but sales data covers only 2017–2018. Monitor future performance before committing further investment.
 
 - Cisco TelePresence EX90: Generated ~$22.6K from a single order in 2015, with no subsequent sales. Treat as a one-time transaction rather than evidence of recurring demand; avoid inventory allocation based on historical revenue alone.
 
 Most low-selling products have only one order, making trends unreliable (Eureka Disposable Bags first sold in 2018). Colored Push Pins, Self-Adhesive Ring Binder Labels, and Maxell 4.7GB DVD-R 5/Pack, however, fell below 2015 sales by 2018 (-15.20, -13.02, -5.94), making them discontinuation candidates.
+
+
+### Loyalty Program
+- Retention And New Customer Acquisition - Customer retention is improving (426 → 444 → 552), but new customers declined (141 → 52 → 11), thus investigate whether it was intentional or caused by reduced marketing or reach, and invest in acquisition alongside retention.
+- Win back at-risk loyal customers - Of 293 loyal customers who bought in all four years, 102 have not ordered in the last 90 days (191 are still active). Their purchase history makes them prime targets for a win-back campaign before they churn for good.
+- Reduce dependence on inconsistent revenue - Since 2017, revenue has been driven more by inconsistent customers, while the consistent base has stayed nearly flat. A small competitor price shift could pull most of the inconsistent base away thus, use win-back campaigns and VIP/subscription programs
