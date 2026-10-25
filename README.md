@@ -227,7 +227,8 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 <h2 align="center">Loyalty Program Insights</h2>
 
-<img width="1048" height="352" alt="Screenshot 2026-10-24 165026" src="https://github.com/user-attachments/assets/a0a32532-502a-4286-b494-c39507c4a9b9" />
+<img width="990" height="350" alt="Screenshot 2026-10-26 000844" src="https://github.com/user-attachments/assets/06729cd3-0f20-4186-8c1f-17bbcca2e3fe" />
+
 
 
 
@@ -235,7 +236,7 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 <tr>
 <td width="100%" valign="top">
 
-- **Consistent and inconsistent** customers started at similar sales levels in 2015 and dipped sharply in early 2016. Sales fluctuated and crossed frequently through 2016–2017, with no sustained gap overall in year 2016. From 2017, inconsistent customer sales grew faster, widening the gap substantially in 2018.
+- **Loyal and Non-loyal** customers started at similar sales levels in 2015 and dipped sharply in early 2016. Sales fluctuated and crossed frequently through 2016–2017, with no sustained gap overall in year 2016. From 2017, non-loyal customers sales grew faster, widening the gap substantially in 2018.
 
 ***Note**:For Non Loyal Customers, new customers from **2018** was **excluded** from the total **509** Non-Loyal Customers cause there was no further years to track the behavior of these customers, thus the value is derived (509-11=498 customers)*
 
@@ -350,6 +351,5 @@ Most low-selling products have only one order, making trends unreliable (Eureka 
 ### Loyalty Program
 - Retention And New Customer Acquisition - Customer retention is improving (426 → 444 → 552), but new customers declined (141 → 52 → 11), thus investigate whether it was intentional or caused by reduced marketing or reach, and invest in acquisition alongside retention.
 - Win back at-risk loyal customers - Of 284 loyal customers who bought in all four years, 97 have not ordered in the last 90 days (187 are still active). Their purchase history makes them prime targets for a win-back campaign before they churn for good.
-- Reduce dependence on inconsistent revenue - Since 2017, revenue has been driven more by inconsistent customers, while the consistent base has stayed nearly flat. A small competitor price shift could pull most of the inconsistent base away thus, use win-back campaigns and VIP/subscription programs to build repeat-purchase habits.
-- Investigate the 2017 surge - Whether it came from a viral one-time product launch or a pricing change that attracted price-sensitive, one-time buyers and 
-track the right KPIs to increase the growth rate of consistent customers and decrease the drop-off (churn) of inconsistent customers.
+- Reduce dependence on Non-Loyal Customers revenue - Since 2017, revenue has been driven more by non-loyal customers, while the loyal base has stayed nearly flat. A small competitor price shift could pull most of the non-loyal base away thus, use win-back campaigns and VIP/subscription programs to build repeat-purchase habits to convert them to loyal customers.
+- Investigate the 2017 non-loyal customer base surge - Whether it came from a viral one-time product launch or a pricing change that attracted price-sensitive, one-time buyers; track the right KPIs to increase the growth rate of loyal customers and convert the non-loyal customers to loyal customers.
