@@ -260,13 +260,13 @@ Prior to the beginning the analysis, a variety of checks were conducted for qual
 
 ### Regional Overview 
 
-| Rank | Region  | Revenue 2015 → 2018 | Revenue Growth | Order Growth |
-|------|---------|---------------------|----------------|--------------|
-| 1    | West    | $145,907 → $248,130 | +70%           | +72.1% (308 → 530) |
-| 2    | East    | $127,652 → $210,129 | +64.6%         | +81.2% (255 → 462) |
-| 3    | Central | $102,920 → $141,627 | +37.6%         | +79.4% (223 → 400) |
-| 4    | South   | $103,374 → $122,164 | +18.2%         | +67.1% (161 → 269) |
 
+| Rank | Region | Revenue 2015 → 2018 | Revenue Growth | Order Growth       | AOV 2015 → 2018 | AOV Growth |
+|------|--------|---------------------|----------------|--------------------|-----------------|------------|
+| 1 | West      | $145,907 → $248,130 | +70%           | +72.1% (308 → 530) | $474 → $468     | −1.3%      |
+| 2 | East      | $127,652 → $210,129 | +64.6%         | +81.2% (255 → 462) | $501 → $455     | −9.2%      |
+| 3 | Central   | $102,920 → $141,627 | +37.6%         | +79.4% (223 → 400) | $462 → $354     | −23.4%     |
+| 4 | South     | $103,374 → $122,164 | +18.2%         | +67.1% (161 → 269) | $642 → $454     | −29.3%     |
 
 - **West:** Top performer. Revenue dipped slightly in 2016, then grew sharply in 2017 ($182,471) and 2018. Orders rose every year.
 - **East:** Steady, consistent growth with the highest order growth of all regions.
