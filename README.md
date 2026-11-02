@@ -353,3 +353,6 @@ Most low-selling products have only one order, making trends unreliable (Eureka 
 - Win back at-risk loyal customers - Of 284 loyal customers who bought in all four years, 97 have not ordered in the last 90 days (187 are still active). Their purchase history makes them prime targets for a win-back campaign before they churn for good.
 - Reduce dependence on Non-Loyal Customers revenue - Since 2017, revenue has been driven more by non-loyal customers, while the loyal base has stayed nearly flat. A small competitor price shift could pull most of the non-loyal base away thus, use win-back campaigns and VIP/subscription programs to build repeat-purchase habits to convert them to loyal customers.
 - Investigate the 2017 non-loyal customer base surge - Whether it came from a viral one-time product launch or a pricing change that attracted price-sensitive, one-time buyers; track the right KPIs to increase the growth rate of loyal customers.
+
+### Regional And States 
+
