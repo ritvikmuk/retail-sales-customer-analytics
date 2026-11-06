@@ -356,3 +356,10 @@ Most low-selling products have only one order, making trends unreliable (Eureka 
 
 ### Regional And States 
 
+- West : Highest revenue growth (+70%). Orders grew +72.1% (slower than East/Central), but AOV held nearly steady in 4 years (−1.3%, $474→$468) while others declined — thus leading in revenue. Priority for incremental investment in sales capacity, regional marketing, and inventory.
+
+- East : Reliable growth: +64.6% revenue, highest order growth (+81.2%), despite AOV −9.2% ($501→$455). Volume outweighs AOV drop, so not alarming — but monitor. Stabilise AOV via product mix optimisation, basket-lifting promotions (spend thresholds), and targeted bundling.
+
+- Central : +37.6% revenue, +79.4% orders, but AOV −23.4% ($462→$354) — AOV is the reason for revenue gap. Possible shift to lower-priced products or heavier discounting. Investigate pricing strategy, product mix, and competitive pressure. Improve AOV via pricing, premium positioning, and margin-linked incentives.
+
+- South : Steepest AOV erosion: −29.3% ($642→$454). Premium positioning lost since 2016 and not recovered. Hold current price point on core products, then reintroduce premium pricing via a separate product line rather than raising core prices (churn risk), if demand is concentrated in lower-priced products.
